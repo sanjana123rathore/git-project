@@ -1,2 +1,2 @@
 # git-project
-first git project demo
+first git project demo from delta class
